@@ -1,0 +1,33 @@
+
+======================================================================
+EXECUTIVE SUMMARY - SIG EDA FINDINGS
+======================================================================
+
+REVENUE:
+- Total Revenue Sell-In: Rp 1.4T
+- Best Performing Brand: Atlas
+- #1 Province:  JAMBI
+- Revenue Growth: See monthly trend chart
+
+PARETO RULE (80/20):
+- Top 78 distributors generate 80% of total revenue
+- Action: Focus retention & support on these 78 distributors
+
+DISTRIBUTION BALANCE:
+- Avg Coverage Ratio (SO/SI): 0.900
+- Under-supplied Provinces (ratio < 0.90): 17
+- Net Stock Accumulation (Sell-In - Sell-Out): 123,808 TON
+- Action: Re-balance distribution to under-supplied provinces
+
+SURVEY / FIELD:
+- Stockout Rate: 0.0% of outlet visits
+- Avg Order Fill Rate: 55.5%
+- Action: Improve field restocking frequency & order fulfillment
+
+STRATEGIC RECOMMENDATIONS:
+1. Consolidate distributor support to Pareto-20 group
+2. Re-route stock allocation to under-supplied provinces
+3. Increase visit frequency in high-stockout provinces
+4. Launch slow-moving product promotions to clear overstock
+5. Monitor Coverage Ratio daily via Power BI real-time dashboard
+======================================================================
