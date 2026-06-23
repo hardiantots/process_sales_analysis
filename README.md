@@ -7,19 +7,6 @@ Proyek ini berfokus pada analisis data transaksi penjualan (_sell-in_ dan _sell-
 
 ---
 
-## 📌 Daftar Isi
-
-- [Daftar Isi](#-daftar-isi)
-- [📂 Struktur Direktori Proyek](#-struktur-direktori-proyek)
-- [⚙️ Alur Analisis & Pemodelan](#️-alur-analisis--pemodelan)
-- [📊 Temuan Utama Bisnis (EDA Findings)](#-temuan-utama-bisnis-eda-findings)
-- [🤖 Hasil Pemodelan Machine Learning](#-hasil-pemodelan-machine-learning)
-- [💡 Rekomendasi Strategis](#-rekomendasi-strategis)
-- [💻 Visualisasi Dashboard](#-visualisasi-dashboard)
-- [🚀 Cara Menjalankan Proyek](#-cara-menjalankan-proyek)
-
----
-
 ## 📂 Struktur Direktori Proyek
 
 Berikut adalah gambaran besar file dan folder dalam proyek ini (di luar folder `Dashboard_ExDA`):
@@ -95,7 +82,6 @@ Berdasarkan analisis data historis, diperoleh beberapa temuan kunci:
   - Terdapat **78 distributor teratas** (dari total populasi) yang menyumbang **80% total pendapatan**. Fokus dukungan operasional dan retensi logistik harus diarahkan pada 78 distributor utama ini.
 - **Keseimbangan Distribusi (Supply-Demand Balance):**
   - Rata-rata _Coverage Ratio_ (_Sell-Out_ dibanding _Sell-In_) nasional adalah **0.900**.
-  - Sebanyak **17 Provinsi teridentifikasi kekurangan pasokan** (_under-supplied_, rasio < 0.90).
   - Terjadi akumulasi stok bersih (_Sell-In_ melebihi _Sell-Out_) secara agregat sebesar **123.808 TON** semen di gudang-gudang distributor.
 - **Kondisi Lapangan (Toko/Outlet):**
   - Tingkat kejadian stok kosong (_Stockout Rate_) di outlet semen adalah **0.0%** saat dikunjungi salesman.
